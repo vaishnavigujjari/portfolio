@@ -399,7 +399,7 @@ ol {
 }
 
 .hero-text h2 {
-	font-size: 170px;
+	font-size: 50px;
 	line-height: normal;
 	margin-bottom: 20px;
 }
@@ -852,7 +852,7 @@ ol {
 
 .home-three-style .hero-text h2,
 .home-four-style .hero-text h2 {
-	font-size: 72px;
+	font-size: 50px;
 	margin-bottom: 40px;
 }
 
@@ -1025,7 +1025,7 @@ ol {
 }
 
 .home-five-style .hero-text h2 {
-	font-size: 72px;
+	font-size: 50px;
 	margin-bottom: 40px;
 }
 
@@ -1212,7 +1212,7 @@ ol {
 
 @media only screen and (max-width: 1600px) {
 	.hero-text h2 {
-		font-size: 120px;
+		font-size: 80px;
 	}
 }
 
